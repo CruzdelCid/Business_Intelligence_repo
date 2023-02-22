@@ -8,7 +8,7 @@ El proyecto consiste en leer un archivo .json con una base de datos de playlists
 - Una forma de trabajar con JupyterNotebooks
 
 ## Instrucciones
-- Clonar el repositorio
+- Clonar el repositorio "git clone https://github.com/CruzdelCid/Business_Intelligence_repo.git". 
 - Acceder desde la terminal a la carpeta clonada
 - Ejecutar el notebook "creacion_db.ipynb". 
 - Ejecutar el notebook "etls.ipynb". 
