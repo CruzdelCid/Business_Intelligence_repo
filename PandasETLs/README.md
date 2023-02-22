@@ -9,7 +9,8 @@ El proyecto consiste en leer un archivo .json con una base de datos de playlists
 
 ## Instrucciones
 - Clonar el repositorio "git clone https://github.com/CruzdelCid/Business_Intelligence_repo.git". 
-- Acceder desde la terminal a la carpeta clonada
+- Acceder desde la terminal a la carpeta clonada. 
+- Ejercutar el comando "docker-compose up". 
 - Ejecutar el notebook "creacion_db.ipynb". 
 - Ejecutar el notebook "etls.ipynb". 
 
